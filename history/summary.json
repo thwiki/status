@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/thwiki.cc",
     "slug": "thb-wiki",
     "status": "down",
-    "uptime": "75.27%",
-    "uptimeDay": "75.27%",
-    "uptimeWeek": "75.27%",
-    "uptimeMonth": "75.27%",
-    "uptimeYear": "75.27%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-24": 0
+      "2021-05-25": 43,
+      "2021-05-24": 643
     }
   }
 ]
