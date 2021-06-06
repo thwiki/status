@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: THBWiki
-    url: https://thwiki.cc/
+    url: https://thwiki.cc/%E9%A6%96%E9%A1%B5
   - name: THBWiki CD Site
     url: https://cd.thwiki.cc/
   - name: THBWiki Tools
@@ -14,7 +14,7 @@ sites:
   - name: Nyasama
     url: https://bbs.nyasama.com/
   - name: MineCraft Gensoukyo
-    url: http://gensoukyo.moe/
+    url: https://gensoukyo.moe/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
