@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/thwiki.cc",
     "slug": "thb-wiki",
     "status": "up",
-    "uptime": "97.68%",
+    "uptime": "97.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "97.68%",
-    "time": 404,
-    "timeDay": 373,
-    "timeWeek": 404,
-    "timeMonth": 404,
-    "timeYear": 404,
+    "uptimeMonth": "97.76%",
+    "uptimeYear": "97.76%",
+    "time": 402,
+    "timeDay": 370,
+    "timeWeek": 406,
+    "timeMonth": 402,
+    "timeYear": 402,
     "dailyMinutesDown": {
       "2021-06-11": 41,
       "2021-05-25": 168,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 405,
-    "timeDay": 368,
-    "timeWeek": 323,
-    "timeMonth": 405,
-    "timeYear": 405,
+    "time": 400,
+    "timeDay": 261,
+    "timeWeek": 318,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2021-06-11": 10
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 324,
-    "timeDay": 242,
-    "timeWeek": 445,
-    "timeMonth": 324,
-    "timeYear": 324,
+    "time": 323,
+    "timeDay": 271,
+    "timeWeek": 454,
+    "timeMonth": 323,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2021-06-11": 10
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 540,
-    "timeDay": 387,
-    "timeWeek": 391,
-    "timeMonth": 540,
-    "timeYear": 540,
+    "time": 538,
+    "timeDay": 470,
+    "timeWeek": 389,
+    "timeMonth": 538,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2021-06-11": 9
     }
@@ -93,8 +93,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 376,
-    "timeDay": 339,
-    "timeWeek": 332,
+    "timeDay": 374,
+    "timeWeek": 346,
     "timeMonth": 376,
     "timeYear": 376,
     "dailyMinutesDown": {
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 458,
-    "timeDay": 521,
-    "timeWeek": 456,
-    "timeMonth": 458,
-    "timeYear": 458,
+    "time": 462,
+    "timeDay": 557,
+    "timeWeek": 491,
+    "timeMonth": 462,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2021-06-11": 14
     }
