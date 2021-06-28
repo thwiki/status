@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/thwiki.cc",
     "slug": "thb-wiki",
     "status": "up",
-    "uptime": "98.23%",
+    "uptime": "98.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "98.23%",
-    "time": 412,
-    "timeDay": 375,
-    "timeWeek": 448,
-    "timeMonth": 405,
-    "timeYear": 412,
+    "uptimeYear": "98.28%",
+    "time": 413,
+    "timeDay": 458,
+    "timeWeek": 487,
+    "timeMonth": 407,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2021-06-11": 41,
       "2021-05-25": 168,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 374,
-    "timeDay": 303,
-    "timeWeek": 280,
-    "timeMonth": 371,
-    "timeYear": 374,
+    "time": 372,
+    "timeDay": 311,
+    "timeWeek": 290,
+    "timeMonth": 347,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2021-06-11": 10
     }
@@ -53,9 +53,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 315,
-    "timeDay": 217,
-    "timeWeek": 289,
-    "timeMonth": 320,
+    "timeDay": 312,
+    "timeWeek": 304,
+    "timeMonth": 323,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2021-06-11": 10
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 495,
-    "timeDay": 248,
-    "timeWeek": 337,
-    "timeMonth": 509,
-    "timeYear": 495,
+    "time": 497,
+    "timeDay": 571,
+    "timeWeek": 370,
+    "timeMonth": 513,
+    "timeYear": 497,
     "dailyMinutesDown": {
       "2021-06-11": 9
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 292,
-    "timeWeek": 306,
-    "timeMonth": 306,
-    "timeYear": 306,
+    "time": 316,
+    "timeDay": 395,
+    "timeWeek": 318,
+    "timeMonth": 316,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   },
   {
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 377,
-    "timeDay": 424,
-    "timeWeek": 381,
-    "timeMonth": 377,
-    "timeYear": 377,
+    "time": 376,
+    "timeDay": 339,
+    "timeWeek": 397,
+    "timeMonth": 373,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2021-06-11": 15
     }
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 467,
-    "timeDay": 743,
-    "timeWeek": 486,
-    "timeMonth": 470,
-    "timeYear": 467,
+    "time": 464,
+    "timeDay": 341,
+    "timeWeek": 451,
+    "timeMonth": 460,
+    "timeYear": 464,
     "dailyMinutesDown": {
       "2021-06-11": 14
     }
@@ -150,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 706,
-    "timeWeek": 611,
-    "timeMonth": 611,
-    "timeYear": 611,
+    "time": 617,
+    "timeDay": 670,
+    "timeWeek": 650,
+    "timeMonth": 617,
+    "timeYear": 617,
     "dailyMinutesDown": {}
   }
 ]
