@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/thwiki.cc",
     "slug": "thb-wiki",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.99%",
+    "uptimeYear": "99.00%",
     "time": 402,
     "timeDay": 304,
     "timeWeek": 414,
@@ -104,9 +104,9 @@
     "url": "https://bbs.nyasama.com/",
     "icon": "https://favicons.githubusercontent.com/bbs.nyasama.com",
     "slug": "nyasama",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
@@ -116,6 +116,7 @@
     "timeMonth": 400,
     "timeYear": 389,
     "dailyMinutesDown": {
+      "2021-07-22": 0,
       "2021-07-05": 5,
       "2021-06-11": 15
     }
