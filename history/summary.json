@@ -104,9 +104,9 @@
     "url": "https://bbs.nyasama.com/",
     "icon": "https://favicons.githubusercontent.com/bbs.nyasama.com",
     "slug": "nyasama",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.90%",
@@ -116,6 +116,7 @@
     "timeMonth": 379,
     "timeYear": 377,
     "dailyMinutesDown": {
+      "2021-08-08": 0,
       "2021-07-22": 84,
       "2021-07-05": 5,
       "2021-06-11": 15
