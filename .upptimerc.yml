@@ -17,6 +17,8 @@ sites:
     url: https://bbs.nyasama.com/
   - name: MineCraft Gensoukyo
     url: https://gensoukyo.moe/
+  - name: Gensoukyo Map
+    url: https://map.thwiki.cc/
   - name: TohoMoe
     url: https://toho.moe/test
 
