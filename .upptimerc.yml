@@ -19,6 +19,10 @@ sites:
     url: https://gensoukyo.moe/
   - name: Gensoukyo Map
     url: https://map.thwiki.cc/
+  - name: THBWiki Calendar Api
+    url: https://calendar.thwiki.cc/
+  - name: Touhou98 Font
+    url: https://touhou98.touhou.moe/
   - name: TohoMoe
     url: https://toho.moe/test
 
