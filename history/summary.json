@@ -246,19 +246,19 @@
     "url": "https://touhou98.touhou.moe/",
     "icon": "https://favicons.githubusercontent.com/touhou98.touhou.moe",
     "slug": "touhou98-font",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 377,
-    "timeDay": 320,
-    "timeWeek": 387,
-    "timeMonth": 377,
-    "timeYear": 377,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 369,
+    "timeDay": 272,
+    "timeWeek": 367,
+    "timeMonth": 369,
+    "timeYear": 369,
     "dailyMinutesDown": {
-      "2022-07-28": 0
+      "2022-07-28": 12
     }
   },
   {
