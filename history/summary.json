@@ -376,19 +376,19 @@
     "url": "https://akyuu.touhou.moe/",
     "icon": "https://icons.duckduckgo.com/ip3/akyuu.touhou.moe.ico",
     "slug": "akyuu",
-    "status": "down",
-    "uptime": "4.02%",
-    "uptimeDay": "4.02%",
-    "uptimeWeek": "4.02%",
-    "uptimeMonth": "4.02%",
-    "uptimeYear": "4.02%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.16%",
+    "uptimeDay": "4.16%",
+    "uptimeWeek": "4.16%",
+    "uptimeMonth": "4.16%",
+    "uptimeYear": "4.16%",
+    "time": 40,
+    "timeDay": 40,
+    "timeWeek": 40,
+    "timeMonth": 40,
+    "timeYear": 40,
     "dailyMinutesDown": {
-      "2023-03-01": 1
+      "2023-03-01": 13
     }
   },
   {
