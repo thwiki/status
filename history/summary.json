@@ -377,18 +377,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/akyuu.touhou.moe.ico",
     "slug": "akyuu",
     "status": "down",
-    "uptime": "7.37%",
-    "uptimeDay": "7.37%",
-    "uptimeWeek": "7.37%",
-    "uptimeMonth": "7.37%",
-    "uptimeYear": "7.37%",
+    "uptime": "4.02%",
+    "uptimeDay": "4.02%",
+    "uptimeWeek": "4.02%",
+    "uptimeMonth": "4.02%",
+    "uptimeYear": "4.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-01": 0
+      "2023-03-01": 1
     }
   },
   {
