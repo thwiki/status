@@ -19,12 +19,24 @@ sites:
     url: https://gensoukyo.moe/
   - name: Gensoukyo Map
     url: https://map.thwiki.cc/
+  - name: Dream
+    url: https://dream.thwiki.cc/
   - name: THBWiki Calendar Api
     url: https://calendar.thwiki.cc/
+  - name: Lyrics
+    url: https://lyrics.thwiki.cc/
+  - name: Omake
+    url: https://omake.thwiki.cc/
+  - name: Patch
+    url: https://patch.thwiki.cc/
   - name: Touhou98 Font
     url: https://touhou98.touhou.moe/
+  - name: Akyuu
+    url: https://akyuu.touhou.moe/
   - name: TohoMoe
     url: https://toho.moe/test
+  - name: Wiki Redirect
+    url: https://thbwiki.cc/logo.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
