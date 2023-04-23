@@ -1,7 +1,7 @@
 url: https://thwiki.cc/%E9%A6%96%E9%A1%B5
-status: up
-code: 200
-responseTime: 22609
-lastUpdated: 2023-04-23T18:36:50.402Z
+status: down
+code: 502
+responseTime: 365
+lastUpdated: 2023-04-23T18:47:27.953Z
 startTime: Mon May 24 2021 13:16:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
