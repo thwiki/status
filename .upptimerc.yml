@@ -29,6 +29,8 @@ sites:
     url: https://omake.thwiki.cc/
   - name: Patch
     url: https://patch.thwiki.cc/
+  - name: Avatar
+    url: https://avatar.thwiki.cc/thwikicc_wiki_default_l.jpg
   - name: Touhou98 Font
     url: https://touhou98.touhou.moe/
   - name: Akyuu
@@ -36,14 +38,14 @@ sites:
   - name: TohoMoe
     url: https://toho.moe/test
   - name: Wiki Redirect
-    url: https://thbwiki.cc/logo.png
+    url: https://thbwiki.cc/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/thwiki/tools/master/src/assets/banner_b1.png
+  logoUrl: https://static.thwiki.cc/banner/banner_b1.png
   name: THBWiki Status
   introTitle: "**[THBWiki](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E) Sites** Uptime Monitor"
   introMessage: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
