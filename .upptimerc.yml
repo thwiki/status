@@ -45,7 +45,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://static.thwiki.cc/banner/banner_b1.png
+  logoUrl: https://static.thwiki.cc/banner/banner_b1@2x.png
   name: THBWiki Status
   introTitle: "**[THBWiki](https://thwiki.cc/THBWiki:%E5%85%B3%E4%BA%8E) Sites** Uptime Monitor"
   introMessage: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
