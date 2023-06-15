@@ -4,18 +4,19 @@
     "url": "https://thwiki.cc/%E9%A6%96%E9%A1%B5",
     "icon": "https://icons.duckduckgo.com/ip3/thwiki.cc.ico",
     "slug": "thb-wiki",
-    "status": "up",
-    "uptime": "98.32%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.33%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "96.55%",
-    "time": 1768,
-    "timeDay": 606,
-    "timeWeek": 535,
-    "timeMonth": 402,
-    "timeYear": 2039,
+    "time": 1788,
+    "timeDay": 6769,
+    "timeWeek": 2085,
+    "timeMonth": 757,
+    "timeYear": 2060,
     "dailyMinutesDown": {
+      "2023-06-15": 0,
       "2023-06-01": 99,
       "2023-05-18": 5,
       "2023-05-15": 5,
@@ -76,8 +77,7 @@
       "2022-11-07": 39,
       "2022-11-06": 169,
       "2022-10-30": 79,
-      "2022-10-24": 27,
-      "2022-10-06": 36
+      "2022-10-24": 27
     }
   },
   {
@@ -94,7 +94,7 @@
     "time": 1094,
     "timeDay": 393,
     "timeWeek": 302,
-    "timeMonth": 265,
+    "timeMonth": 276,
     "timeYear": 1368,
     "dailyMinutesDown": {
       "2023-05-09": 11,
@@ -137,7 +137,7 @@
     "time": 258,
     "timeDay": 143,
     "timeWeek": 219,
-    "timeMonth": 199,
+    "timeMonth": 209,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2022-08-15": 6,
@@ -158,7 +158,7 @@
     "time": 454,
     "timeDay": 283,
     "timeWeek": 405,
-    "timeMonth": 436,
+    "timeMonth": 449,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2023-04-08": 4,
@@ -181,7 +181,7 @@
     "time": 274,
     "timeDay": 105,
     "timeWeek": 377,
-    "timeMonth": 282,
+    "timeMonth": 296,
     "timeYear": 251,
     "dailyMinutesDown": {}
   },
@@ -199,7 +199,7 @@
     "time": 973,
     "timeDay": 520,
     "timeWeek": 2593,
-    "timeMonth": 1330,
+    "timeMonth": 1406,
     "timeYear": 1096,
     "dailyMinutesDown": {
       "2023-05-11": 21,
@@ -227,7 +227,7 @@
     "time": 612,
     "timeDay": 661,
     "timeWeek": 617,
-    "timeMonth": 871,
+    "timeMonth": 771,
     "timeYear": 716,
     "dailyMinutesDown": {
       "2023-06-11": 5,
@@ -263,7 +263,7 @@
     "time": 430,
     "timeDay": 94,
     "timeWeek": 177,
-    "timeMonth": 182,
+    "timeMonth": 186,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2023-05-09": 17,
@@ -294,7 +294,7 @@
     "time": 183,
     "timeDay": 148,
     "timeWeek": 164,
-    "timeMonth": 159,
+    "timeMonth": 165,
     "timeYear": 183,
     "dailyMinutesDown": {}
   },
@@ -312,7 +312,7 @@
     "time": 192,
     "timeDay": 159,
     "timeWeek": 161,
-    "timeMonth": 148,
+    "timeMonth": 155,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -330,7 +330,7 @@
     "time": 209,
     "timeDay": 117,
     "timeWeek": 297,
-    "timeMonth": 254,
+    "timeMonth": 256,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2023-05-04": 5
@@ -350,7 +350,7 @@
     "time": 210,
     "timeDay": 358,
     "timeWeek": 250,
-    "timeMonth": 200,
+    "timeMonth": 210,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -360,15 +360,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/patch.thwiki.cc.ico",
     "slug": "patch",
     "status": "up",
-    "uptime": "98.76%",
+    "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "98.76%",
+    "uptimeYear": "98.77%",
     "time": 628,
     "timeDay": 389,
     "timeWeek": 456,
-    "timeMonth": 720,
+    "timeMonth": 755,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2023-05-31": 5,
@@ -395,7 +395,7 @@
     "time": 186,
     "timeDay": 199,
     "timeWeek": 190,
-    "timeMonth": 186,
+    "timeMonth": 192,
     "timeYear": 186,
     "dailyMinutesDown": {}
   },
@@ -413,7 +413,7 @@
     "time": 313,
     "timeDay": 404,
     "timeWeek": 248,
-    "timeMonth": 271,
+    "timeMonth": 286,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2023-05-03": 5,
@@ -434,7 +434,7 @@
     "time": 267,
     "timeDay": 246,
     "timeWeek": 206,
-    "timeMonth": 259,
+    "timeMonth": 273,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2023-05-03": 4,
@@ -455,7 +455,7 @@
     "time": 1440,
     "timeDay": 2970,
     "timeWeek": 5537,
-    "timeMonth": 3361,
+    "timeMonth": 3432,
     "timeYear": 1816,
     "dailyMinutesDown": {
       "2023-06-10": 15,
@@ -482,15 +482,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/thbwiki.cc.ico",
     "slug": "wiki-redirect",
     "status": "up",
-    "uptime": "97.11%",
+    "uptime": "97.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "97.11%",
+    "uptimeYear": "97.13%",
     "time": 503,
     "timeDay": 508,
     "timeWeek": 500,
-    "timeMonth": 520,
+    "timeMonth": 544,
     "timeYear": 503,
     "dailyMinutesDown": {
       "2023-05-31": 8,
