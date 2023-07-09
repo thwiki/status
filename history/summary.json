@@ -14,7 +14,7 @@
     "timeDay": 845,
     "timeWeek": 921,
     "timeMonth": 1717,
-    "timeYear": 2108,
+    "timeYear": 2111,
     "dailyMinutesDown": {
       "2023-06-26": 89,
       "2023-06-25": 20,
@@ -96,7 +96,7 @@
     "timeDay": 593,
     "timeWeek": 630,
     "timeMonth": 481,
-    "timeYear": 1383,
+    "timeYear": 1386,
     "dailyMinutesDown": {
       "2023-06-18": 3,
       "2023-05-09": 11,
@@ -139,7 +139,7 @@
     "timeDay": 172,
     "timeWeek": 173,
     "timeMonth": 199,
-    "timeYear": 231,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2022-08-15": 6
     }
@@ -201,7 +201,7 @@
     "timeDay": 241,
     "timeWeek": 317,
     "timeMonth": 901,
-    "timeYear": 1084,
+    "timeYear": 1087,
     "dailyMinutesDown": {
       "2023-05-11": 21,
       "2023-04-15": 27,
@@ -229,7 +229,7 @@
     "timeDay": 460,
     "timeWeek": 545,
     "timeMonth": 685,
-    "timeYear": 729,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2023-07-04": 5,
       "2023-06-30": 5,
@@ -267,7 +267,7 @@
     "timeDay": 277,
     "timeWeek": 190,
     "timeMonth": 220,
-    "timeYear": 457,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2023-05-09": 17,
       "2023-05-05": 10,
@@ -315,7 +315,7 @@
     "timeDay": 421,
     "timeWeek": 190,
     "timeMonth": 205,
-    "timeYear": 193,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   },
   {
@@ -417,7 +417,7 @@
     "timeDay": 173,
     "timeWeek": 234,
     "timeMonth": 283,
-    "timeYear": 312,
+    "timeYear": 313,
     "dailyMinutesDown": {
       "2023-05-03": 5,
       "2022-07-28": 12
@@ -449,18 +449,19 @@
     "url": "https://toho.moe/test",
     "icon": "https://icons.duckduckgo.com/ip3/toho.moe.ico",
     "slug": "toho-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
-    "time": 1511,
+    "time": 1513,
     "timeDay": 2258,
     "timeWeek": 1854,
     "timeMonth": 3309,
-    "timeYear": 1923,
+    "timeYear": 1927,
     "dailyMinutesDown": {
+      "2023-07-09": 1,
       "2023-07-07": 11,
       "2023-06-10": 15,
       "2023-05-14": 5,
@@ -485,11 +486,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/thbwiki.cc.ico",
     "slug": "wiki-redirect",
     "status": "up",
-    "uptime": "97.64%",
+    "uptime": "97.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "97.64%",
+    "uptimeYear": "97.65%",
     "time": 564,
     "timeDay": 921,
     "timeWeek": 852,
