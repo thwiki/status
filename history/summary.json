@@ -415,10 +415,10 @@
     "url": "https://touhou98.touhou.moe/",
     "icon": "https://icons.duckduckgo.com/ip3/touhou98.touhou.moe.ico",
     "slug": "touhou98-font",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
@@ -427,6 +427,7 @@
     "timeMonth": 306,
     "timeYear": 310,
     "dailyMinutesDown": {
+      "2023-07-26": 1,
       "2023-05-03": 5,
       "2022-07-28": 12
     }
