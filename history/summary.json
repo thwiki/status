@@ -169,19 +169,19 @@
     "url": "https://touhou.group/",
     "icon": "https://icons.duckduckgo.com/ip3/touhou.group.ico",
     "slug": "touhou-group",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 336,
-    "timeWeek": 308,
-    "timeMonth": 314,
-    "timeYear": 260,
+    "timeDay": 204,
+    "timeWeek": 279,
+    "timeMonth": 306,
+    "timeYear": 259,
     "dailyMinutesDown": {
-      "2023-10-30": 1
+      "2023-10-30": 5
     }
   },
   {
