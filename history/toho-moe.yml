@@ -1,7 +1,7 @@
 url: https://toho.moe/test
-status: down
-code: 504
-responseTime: 11138
-lastUpdated: 2023-12-07T16:56:49.260Z
+status: up
+code: 200
+responseTime: 10595
+lastUpdated: 2023-12-07T17:07:12.653Z
 startTime: 2021-06-20T14:05:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
