@@ -1,7 +1,7 @@
 url: https://omake.thwiki.cc/
-status: up
-code: 200
-responseTime: 88
-lastUpdated: 2024-01-16T23:07:35.619Z
+status: down
+code: 500
+responseTime: 2429
+lastUpdated: 2024-01-17T21:48:59.812Z
 startTime: 2023-03-01T05:23:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
