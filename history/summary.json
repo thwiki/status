@@ -4,18 +4,19 @@
     "url": "https://thwiki.cc/%E9%A6%96%E9%A1%B5",
     "icon": "https://icons.duckduckgo.com/ip3/thwiki.cc.ico",
     "slug": "thb-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "96.61%",
-    "time": 2074,
-    "timeDay": 1078,
-    "timeWeek": 3531,
-    "timeMonth": 1764,
-    "timeYear": 2321,
+    "time": 2076,
+    "timeDay": 1292,
+    "timeWeek": 3328,
+    "timeMonth": 1757,
+    "timeYear": 2319,
     "dailyMinutesDown": {
+      "2024-01-21": 0,
       "2024-01-16": 5,
       "2024-01-12": 5,
       "2023-12-23": 6,
@@ -78,8 +79,7 @@
       "2023-02-09": 1432,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
-      "2023-02-06": 469,
-      "2023-02-05": 11
+      "2023-02-06": 469
     }
   },
   {
