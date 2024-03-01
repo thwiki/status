@@ -4,16 +4,16 @@
     "url": "https://thwiki.cc/%E9%A6%96%E9%A1%B5",
     "icon": "https://icons.duckduckgo.com/ip3/thwiki.cc.ico",
     "slug": "thb-wiki",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "61.42%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "61.41%",
     "uptimeWeek": "94.19%",
     "uptimeMonth": "98.61%",
     "uptimeYear": "99.49%",
     "time": 2318,
-    "timeDay": 847,
-    "timeWeek": 1100,
-    "timeMonth": 1516,
+    "timeDay": 736,
+    "timeWeek": 1056,
+    "timeMonth": 1491,
     "timeYear": 1385,
     "dailyMinutesDown": {
       "2024-03-01": 81,
@@ -139,7 +139,7 @@
     "timeDay": 397,
     "timeWeek": 524,
     "timeMonth": 466,
-    "timeYear": 487,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2024-01-17": 11,
       "2023-06-16": 7,
@@ -182,7 +182,7 @@
     "timeDay": 471,
     "timeWeek": 474,
     "timeMonth": 891,
-    "timeYear": 909,
+    "timeYear": 910,
     "dailyMinutesDown": {
       "2024-02-23": 5,
       "2024-02-21": 5,
@@ -217,11 +217,11 @@
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "98.81%",
-    "time": 716,
+    "time": 729,
     "timeDay": 393,
     "timeWeek": 466,
     "timeMonth": 669,
-    "timeYear": 738,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2024-02-23": 5,
       "2024-02-01": 5,
@@ -383,7 +383,7 @@
     "timeDay": 213,
     "timeWeek": 220,
     "timeMonth": 192,
-    "timeYear": 214,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -488,7 +488,7 @@
     "timeDay": 1422,
     "timeWeek": 695,
     "timeMonth": 459,
-    "timeYear": 321,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2024-01-17": 23,
       "2023-07-26": 12,
@@ -510,7 +510,7 @@
     "timeDay": 2571,
     "timeWeek": 2130,
     "timeMonth": 2065,
-    "timeYear": 2836,
+    "timeYear": 2838,
     "dailyMinutesDown": {
       "2024-01-17": 18,
       "2024-01-03": 5,
