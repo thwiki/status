@@ -36,7 +36,7 @@ sites:
   - name: Akyuu
     url: https://akyuu.touhou.moe/
   - name: TohoMoe
-    url: https://toho.moe/test
+    url: https://toho.moe/
   - name: Wiki Redirect
     url: https://thbwiki.cc/favicon.ico
 
