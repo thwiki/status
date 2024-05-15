@@ -14,7 +14,7 @@
     "timeDay": 1083,
     "timeWeek": 1121,
     "timeMonth": 1082,
-    "timeYear": 1279,
+    "timeYear": 1287,
     "dailyMinutesDown": {
       "2024-04-23": 15,
       "2024-04-12": 10,
@@ -76,7 +76,7 @@
     "timeDay": 751,
     "timeWeek": 723,
     "timeMonth": 716,
-    "timeYear": 650,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2024-04-12": 3,
       "2024-04-11": 6,
@@ -102,7 +102,7 @@
     "timeDay": 258,
     "timeWeek": 227,
     "timeMonth": 209,
-    "timeYear": 204,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2024-01-17": 5,
       "2023-11-28": 5
@@ -123,7 +123,7 @@
     "timeDay": 376,
     "timeWeek": 320,
     "timeMonth": 480,
-    "timeYear": 533,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2024-01-17": 11,
       "2023-06-16": 7
@@ -144,7 +144,7 @@
     "timeDay": 450,
     "timeWeek": 369,
     "timeMonth": 411,
-    "timeYear": 340,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2024-01-17": 23,
       "2023-10-30": 5
@@ -155,18 +155,19 @@
     "url": "https://bbs.nyasama.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bbs.nyasama.com.ico",
     "slug": "nyasama",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.85%",
-    "time": 1022,
+    "time": 994,
     "timeDay": 423,
     "timeWeek": 466,
     "timeMonth": 863,
-    "timeYear": 814,
+    "timeYear": 817,
     "dailyMinutesDown": {
+      "2024-05-15": 0,
       "2024-05-12": 7,
       "2024-05-02": 9,
       "2024-05-01": 11,
@@ -208,7 +209,7 @@
     "timeDay": 611,
     "timeWeek": 535,
     "timeMonth": 627,
-    "timeYear": 679,
+    "timeYear": 669,
     "dailyMinutesDown": {
       "2024-05-05": 631,
       "2024-02-23": 5,
@@ -280,7 +281,7 @@
     "timeDay": 123,
     "timeWeek": 200,
     "timeMonth": 224,
-    "timeYear": 211,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2024-01-17": 5
     }
@@ -300,7 +301,7 @@
     "timeDay": 203,
     "timeWeek": 220,
     "timeMonth": 203,
-    "timeYear": 188,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2024-01-17": 11
     }
@@ -320,7 +321,7 @@
     "timeDay": 181,
     "timeWeek": 241,
     "timeMonth": 228,
-    "timeYear": 183,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -360,7 +361,7 @@
     "timeDay": 141,
     "timeWeek": 195,
     "timeMonth": 230,
-    "timeYear": 216,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -380,7 +381,7 @@
     "timeDay": 642,
     "timeWeek": 573,
     "timeMonth": 541,
-    "timeYear": 555,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2024-05-05": 631,
       "2024-03-31": 523,
@@ -421,7 +422,7 @@
     "timeDay": 162,
     "timeWeek": 190,
     "timeMonth": 195,
-    "timeYear": 292,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2024-04-11": 6,
       "2024-01-17": 23,
@@ -444,7 +445,7 @@
     "timeDay": 710,
     "timeWeek": 518,
     "timeMonth": 467,
-    "timeYear": 371,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2024-01-17": 5,
       "2023-07-26": 10
@@ -465,7 +466,7 @@
     "timeDay": 555,
     "timeWeek": 447,
     "timeMonth": 475,
-    "timeYear": 358,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2024-01-17": 23,
       "2023-07-26": 12
@@ -486,7 +487,7 @@
     "timeDay": 479,
     "timeWeek": 374,
     "timeMonth": 1365,
-    "timeYear": 2628,
+    "timeYear": 2631,
     "dailyMinutesDown": {
       "2024-01-17": 18,
       "2024-01-03": 5,
@@ -511,7 +512,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/thbwiki.cc.ico",
     "slug": "wiki-redirect",
     "status": "up",
-    "uptime": "96.52%",
+    "uptime": "96.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -520,7 +521,7 @@
     "timeDay": 756,
     "timeWeek": 938,
     "timeMonth": 947,
-    "timeYear": 818,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2024-04-12": 2,
       "2024-04-11": 5,
