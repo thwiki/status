@@ -1,7 +1,7 @@
 url: https://cd.thwiki.cc/
-status: up
-code: 200
-responseTime: 600
-lastUpdated: 2024-07-05T23:09:12.061Z
+status: down
+code: 502
+responseTime: 1013
+lastUpdated: 2024-07-06T19:28:04.948Z
 startTime: 2021-05-25T03:40:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
