@@ -33,8 +33,6 @@ sites:
     url: https://avatar.thwiki.cc/thwikicc_wiki_default_l.jpg
   - name: Touhou98 Font
     url: https://touhou98.touhou.moe/
-  - name: Akyuu
-    url: https://akyuu.touhou.moe/
   - name: TohoMoe
     url: https://toho.moe/
   - name: Wiki Redirect
