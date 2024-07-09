@@ -1,7 +1,7 @@
 url: https://calendar.thwiki.cc/
-status: up
-code: 200
+status: down
+code: 402
 responseTime: 126
-lastUpdated: 2024-07-08T23:08:40.661Z
+lastUpdated: 2024-07-09T03:29:51.655Z
 startTime: 2022-07-09T09:04:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
