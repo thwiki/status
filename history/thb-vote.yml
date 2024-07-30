@@ -1,7 +1,7 @@
 url: http://touhou.vote/
-status: up
-code: 200
-responseTime: 1487
-lastUpdated: 2024-07-30T11:22:42.116Z
+status: down
+code: 403
+responseTime: 292
+lastUpdated: 2024-07-30T11:27:54.058Z
 startTime: 2021-05-25T03:40:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
