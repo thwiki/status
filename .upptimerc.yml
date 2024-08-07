@@ -36,7 +36,7 @@ sites:
   - name: TohoMoe
     url: https://toho.moe/
   - name: Static Wiki
-    url: https://thbwiki.cc/favicon.ico
+    url: https://thbwiki.cc/%E9%A6%96%E9%A1%B5
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
