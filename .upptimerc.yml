@@ -9,12 +9,8 @@ sites:
     url: https://cd.thwiki.cc/
   - name: THBWiki Tools
     url: https://tool.thwiki.cc/
-  - name: THBVote
-    url: http://touhou.vote/
   - name: Touhou Group
     url: https://touhou.group/
-  - name: Nyasama
-    url: https://bbs.nyasama.com/
   - name: MineCraft Gensoukyo
     url: https://gensoukyo.moe/
   - name: Gensoukyo Map
