@@ -100,7 +100,7 @@
     "time": 727,
     "timeDay": 671,
     "timeWeek": 751,
-    "timeMonth": 725,
+    "timeMonth": 726,
     "timeYear": 742,
     "dailyMinutesDown": {
       "2024-11-12": 45,
@@ -162,7 +162,7 @@
     "time": 200,
     "timeDay": 282,
     "timeWeek": 174,
-    "timeMonth": 171,
+    "timeMonth": 168,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2024-10-22": 21,
@@ -223,7 +223,7 @@
     "time": 532,
     "timeDay": 152,
     "timeWeek": 243,
-    "timeMonth": 324,
+    "timeMonth": 314,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2024-11-28": 50,
@@ -273,22 +273,22 @@
     "url": "https://gensoukyo.moe/",
     "icon": "https://icons.duckduckgo.com/ip3/gensoukyo.moe.ico",
     "slug": "mine-craft-gensoukyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "70.81%",
-    "uptimeWeek": "88.17%",
-    "uptimeMonth": "97.28%",
-    "uptimeYear": "99.77%",
-    "time": 1675,
+    "uptimeDay": "70.79%",
+    "uptimeWeek": "88.35%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "99.78%",
+    "time": 1677,
     "timeDay": 2960,
     "timeWeek": 2737,
-    "timeMonth": 2751,
+    "timeMonth": 2750,
     "timeYear": 1872,
     "dailyMinutesDown": {
       "2025-01-11": 416,
       "2025-01-10": 364,
       "2025-01-09": 231,
-      "2025-01-08": 187
+      "2025-01-08": 169
     }
   },
   {
@@ -305,7 +305,7 @@
     "time": 211,
     "timeDay": 211,
     "timeWeek": 196,
-    "timeMonth": 158,
+    "timeMonth": 159,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2024-10-22": 21,
@@ -366,7 +366,7 @@
     "time": 188,
     "timeDay": 226,
     "timeWeek": 134,
-    "timeMonth": 149,
+    "timeMonth": 148,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2024-10-22": 21,
@@ -427,7 +427,7 @@
     "time": 318,
     "timeDay": 466,
     "timeWeek": 602,
-    "timeMonth": 579,
+    "timeMonth": 578,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2025-01-10": 16,
@@ -487,7 +487,7 @@
     "time": 230,
     "timeDay": 157,
     "timeWeek": 134,
-    "timeMonth": 151,
+    "timeMonth": 150,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2024-10-22": 20,
@@ -547,7 +547,7 @@
     "time": 199,
     "timeDay": 199,
     "timeWeek": 145,
-    "timeMonth": 122,
+    "timeMonth": 124,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2024-11-10": 6,
@@ -602,7 +602,7 @@
     "time": 538,
     "timeDay": 903,
     "timeWeek": 682,
-    "timeMonth": 534,
+    "timeMonth": 533,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2024-12-15": 10,
@@ -714,7 +714,7 @@
     "time": 427,
     "timeDay": 280,
     "timeWeek": 319,
-    "timeMonth": 345,
+    "timeMonth": 350,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2024-10-22": 19,
