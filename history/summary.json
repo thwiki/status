@@ -76,8 +76,7 @@
       "2024-03-06": 5,
       "2024-03-02": 12,
       "2024-03-01": 93,
-      "2024-02-29": 474,
-      "2024-02-26": 13
+      "2024-02-29": 474
     }
   },
   {
@@ -574,7 +573,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/omake.thwiki.cc.ico",
     "slug": "omake",
     "status": "up",
-    "uptime": "95.75%",
+    "uptime": "95.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
@@ -630,8 +629,8 @@
     "slug": "patch",
     "status": "up",
     "uptime": "92.61%",
-    "uptimeDay": "55.63%",
-    "uptimeWeek": "7.95%",
+    "uptimeDay": "60.62%",
+    "uptimeWeek": "8.66%",
     "uptimeMonth": "52.50%",
     "uptimeYear": "86.41%",
     "time": 548,
