@@ -82,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cd.thwiki.cc.ico",
     "slug": "thb-wiki-cd-site",
     "status": "up",
-    "uptime": "98.18%",
+    "uptime": "98.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -263,18 +263,19 @@
     "url": "https://gensoukyo.moe/",
     "icon": "https://icons.duckduckgo.com/ip3/gensoukyo.moe.ico",
     "slug": "mine-craft-gensoukyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.78%",
-    "time": 1907,
+    "time": 1909,
     "timeDay": 1988,
     "timeWeek": 2661,
     "timeMonth": 2797,
     "timeYear": 2205,
     "dailyMinutesDown": {
+      "2025-03-05": 0,
       "2025-03-01": 5,
       "2025-02-28": 5,
       "2025-02-26": 15,
@@ -286,7 +287,7 @@
       "2025-01-19": 54,
       "2025-01-18": 357,
       "2025-01-17": 430,
-      "2025-01-16": 273
+      "2025-01-16": 254
     }
   },
   {
