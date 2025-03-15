@@ -260,13 +260,13 @@
     "url": "https://gensoukyo.moe/",
     "icon": "https://icons.duckduckgo.com/ip3/gensoukyo.moe.ico",
     "slug": "mine-craft-gensoukyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "82.13%",
+    "uptimeDay": "82.11%",
     "uptimeWeek": "97.20%",
     "uptimeMonth": "99.23%",
-    "uptimeYear": "99.75%",
-    "time": 1971,
+    "uptimeYear": "99.76%",
+    "time": 1973,
     "timeDay": 2344,
     "timeWeek": 2461,
     "timeMonth": 2630,
@@ -288,7 +288,7 @@
       "2025-01-19": 54,
       "2025-01-18": 357,
       "2025-01-17": 430,
-      "2025-01-16": 78
+      "2025-01-16": 70
     }
   },
   {
@@ -645,7 +645,7 @@
     "uptime": "92.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
-    "uptimeMonth": "70.26%",
+    "uptimeMonth": "70.30%",
     "uptimeYear": "86.41%",
     "time": 589,
     "timeDay": 551,
