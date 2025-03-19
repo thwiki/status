@@ -260,20 +260,20 @@
     "slug": "mine-craft-gensoukyo",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "56.93%",
-    "uptimeWeek": "80.42%",
-    "uptimeMonth": "95.49%",
+    "uptimeDay": "58.30%",
+    "uptimeWeek": "80.43%",
+    "uptimeMonth": "95.50%",
     "uptimeYear": "99.62%",
-    "time": 2049,
-    "timeDay": 2470,
-    "timeWeek": 2440,
-    "timeMonth": 2479,
+    "time": 2051,
+    "timeDay": 2479,
+    "timeWeek": 2442,
+    "timeMonth": 2480,
     "timeYear": 2275,
     "dailyMinutesDown": {
-      "2025-03-19": 483,
+      "2025-03-19": 491,
       "2025-03-18": 598,
       "2025-03-17": 753,
-      "2025-03-16": 140
+      "2025-03-16": 130
     }
   },
   {
@@ -632,7 +632,7 @@
     "uptime": "92.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.60%",
+    "uptimeMonth": "84.67%",
     "uptimeYear": "86.41%",
     "time": 588,
     "timeDay": 465,
