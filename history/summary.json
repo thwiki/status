@@ -254,15 +254,15 @@
     "uptime": "98.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "14.60%",
-    "uptimeYear": "92.88%",
+    "uptimeMonth": "14.47%",
+    "uptimeYear": "92.87%",
     "time": 2085,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2360,
     "timeYear": 2328,
     "dailyMinutesDown": {
-      "2025-04-17": 552,
+      "2025-04-17": 612,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -420,15 +420,15 @@
     "url": "https://calendar.thbwiki.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.thbwiki.cc.ico",
     "slug": "thb-wiki-calendar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "95.86%",
+    "uptimeDay": "96.88%",
     "uptimeWeek": "97.54%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "99.69%",
     "time": 441,
-    "timeDay": 701,
-    "timeWeek": 598,
+    "timeDay": 703,
+    "timeWeek": 597,
     "timeMonth": 580,
     "timeYear": 512,
     "dailyMinutesDown": {
@@ -495,7 +495,7 @@
       "2025-01-27": 5,
       "2025-01-26": 31,
       "2025-01-24": 26,
-      "2025-01-23": 28
+      "2025-01-23": 11
     }
   },
   {
