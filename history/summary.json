@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.50%",
+    "uptimeYear": "95.77%",
     "time": 1468,
-    "timeDay": 1158,
-    "timeWeek": 1046,
-    "timeMonth": 1024,
-    "timeYear": 1369,
+    "timeDay": 1144,
+    "timeWeek": 1073,
+    "timeMonth": 1034,
+    "timeYear": 1368,
     "dailyMinutesDown": {
       "2025-06-03": 5,
       "2025-05-25": 26,
@@ -54,8 +54,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -68,11 +67,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.68%",
-    "time": 724,
-    "timeDay": 1023,
-    "timeWeek": 726,
-    "timeMonth": 692,
+    "uptimeYear": "95.96%",
+    "time": 725,
+    "timeDay": 773,
+    "timeWeek": 735,
+    "timeMonth": 696,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2025-02-12": 21,
@@ -101,8 +100,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -115,11 +113,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.60%",
+    "uptimeYear": "91.87%",
     "time": 208,
-    "timeDay": 83,
-    "timeWeek": 120,
-    "timeMonth": 193,
+    "timeDay": 108,
+    "timeWeek": 113,
+    "timeMonth": 188,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2025-02-21": 5,
@@ -152,8 +150,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -166,12 +163,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.50%",
+    "uptimeYear": "97.78%",
     "time": 487,
-    "timeDay": 55,
-    "timeWeek": 216,
-    "timeMonth": 194,
-    "timeYear": 515,
+    "timeDay": 420,
+    "timeWeek": 233,
+    "timeMonth": 205,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2025-02-21": 5,
       "2024-11-28": 50,
@@ -201,8 +198,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -217,9 +213,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "89.00%",
     "time": 2145,
-    "timeDay": 1093,
-    "timeWeek": 2500,
-    "timeMonth": 1336,
+    "timeDay": 1027,
+    "timeWeek": 2495,
+    "timeMonth": 1343,
     "timeYear": 2399,
     "dailyMinutesDown": {
       "2025-07-09": 39,
@@ -274,15 +270,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/map.thwiki.cc.ico",
     "slug": "gensoukyo-map",
     "status": "up",
-    "uptime": "96.94%",
+    "uptime": "96.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.60%",
+    "uptimeYear": "91.87%",
     "time": 211,
-    "timeDay": 94,
-    "timeWeek": 202,
-    "timeMonth": 188,
+    "timeDay": 88,
+    "timeWeek": 164,
+    "timeMonth": 185,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2025-02-21": 5,
@@ -315,8 +311,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -329,11 +324,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.60%",
+    "uptimeYear": "91.87%",
     "time": 184,
-    "timeDay": 96,
-    "timeWeek": 170,
-    "timeMonth": 166,
+    "timeDay": 350,
+    "timeWeek": 168,
+    "timeMonth": 173,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2025-02-21": 5,
@@ -366,8 +361,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -377,15 +371,15 @@
     "slug": "thb-wiki-calendar-api",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "98.32%",
     "uptimeYear": "99.55%",
-    "time": 513,
-    "timeDay": 599,
-    "timeWeek": 585,
-    "timeMonth": 570,
-    "timeYear": 571,
+    "time": 514,
+    "timeDay": 611,
+    "timeWeek": 610,
+    "timeMonth": 571,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2025-07-17": 44,
       "2025-07-16": 38,
@@ -468,11 +462,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.30%",
+    "uptimeYear": "92.58%",
     "time": 224,
-    "timeDay": 303,
-    "timeWeek": 212,
-    "timeMonth": 194,
+    "timeDay": 254,
+    "timeWeek": 207,
+    "timeMonth": 193,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2025-02-21": 5,
@@ -504,8 +498,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -514,16 +507,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/omake.thwiki.cc.ico",
     "slug": "omake",
     "status": "up",
-    "uptime": "96.45%",
+    "uptime": "96.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.78%",
-    "time": 198,
-    "timeDay": 135,
-    "timeWeek": 155,
+    "uptimeYear": "94.06%",
+    "time": 197,
+    "timeDay": 130,
+    "timeWeek": 124,
     "timeMonth": 157,
-    "timeYear": 189,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2025-02-21": 5,
       "2024-11-10": 6,
@@ -549,8 +542,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -565,9 +557,9 @@
     "uptimeMonth": "96.76%",
     "uptimeYear": "85.10%",
     "time": 625,
-    "timeDay": 421,
-    "timeWeek": 559,
-    "timeMonth": 462,
+    "timeDay": 786,
+    "timeWeek": 541,
+    "timeMonth": 476,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2025-07-08": 5,
@@ -655,11 +647,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.74%",
+    "uptimeYear": "96.02%",
     "time": 181,
-    "timeDay": 85,
-    "timeWeek": 113,
-    "timeMonth": 105,
+    "timeDay": 104,
+    "timeWeek": 104,
+    "timeMonth": 106,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2024-08-02": 863,
@@ -675,8 +667,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -689,12 +680,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.60%",
+    "uptimeYear": "91.87%",
     "time": 442,
-    "timeDay": 241,
-    "timeWeek": 343,
-    "timeMonth": 406,
-    "timeYear": 432,
+    "timeDay": 312,
+    "timeWeek": 342,
+    "timeMonth": 393,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2025-02-21": 5,
       "2024-10-22": 19,
@@ -726,8 +717,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -736,16 +726,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/toho.moe.ico",
     "slug": "toho-moe",
     "status": "up",
-    "uptime": "96.77%",
+    "uptime": "96.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.60%",
-    "time": 512,
-    "timeDay": 391,
-    "timeWeek": 286,
+    "uptimeYear": "91.87%",
+    "time": 509,
+    "timeDay": 278,
+    "timeWeek": 294,
     "timeMonth": 327,
-    "timeYear": 355,
+    "timeYear": 354,
     "dailyMinutesDown": {
       "2025-02-21": 5,
       "2024-10-22": 19,
@@ -777,8 +767,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -792,11 +781,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 106,
-    "timeWeek": 111,
-    "timeMonth": 214,
-    "timeYear": 199,
+    "time": 201,
+    "timeDay": 728,
+    "timeWeek": 196,
+    "timeMonth": 219,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2024-09-19": 6
     }
