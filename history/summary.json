@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.66%",
+    "uptimeYear": "96.87%",
     "time": 1467,
-    "timeDay": 1021,
-    "timeWeek": 1045,
-    "timeMonth": 1018,
+    "timeDay": 1163,
+    "timeWeek": 1047,
+    "timeMonth": 1027,
     "timeYear": 1365,
     "dailyMinutesDown": {
       "2025-06-03": 5,
@@ -50,8 +50,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -64,11 +63,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.85%",
+    "uptimeYear": "97.05%",
     "time": 725,
-    "timeDay": 710,
-    "timeWeek": 738,
-    "timeMonth": 692,
+    "timeDay": 746,
+    "timeWeek": 742,
+    "timeMonth": 698,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2025-02-12": 21,
@@ -93,8 +92,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -103,15 +101,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tool.thwiki.cc.ico",
     "slug": "thb-wiki-tools",
     "status": "up",
-    "uptime": "97.37%",
-    "uptimeDay": "99.13%",
+    "uptime": "97.38%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "92.76%",
+    "uptimeYear": "92.97%",
     "time": 208,
-    "timeDay": 134,
+    "timeDay": 88,
     "timeWeek": 159,
-    "timeMonth": 180,
+    "timeMonth": 179,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2025-07-21": 13,
@@ -142,8 +140,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -153,14 +150,14 @@
     "slug": "touhou-group",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.13%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "98.66%",
-    "time": 485,
-    "timeDay": 121,
-    "timeWeek": 189,
-    "timeMonth": 201,
+    "uptimeYear": "98.87%",
+    "time": 486,
+    "timeDay": 198,
+    "timeWeek": 191,
+    "timeMonth": 188,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2025-07-21": 13,
@@ -189,8 +186,7 @@
       "2024-08-08": 17,
       "2024-07-26": 975,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -205,10 +201,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "89.00%",
     "time": 2141,
-    "timeDay": 1145,
-    "timeWeek": 1929,
-    "timeMonth": 1367,
-    "timeYear": 2401,
+    "timeDay": 1170,
+    "timeWeek": 1617,
+    "timeMonth": 1369,
+    "timeYear": 2402,
     "dailyMinutesDown": {
       "2025-07-09": 39,
       "2025-05-01": 780,
@@ -263,15 +259,15 @@
     "slug": "gensoukyo-map",
     "status": "up",
     "uptime": "96.95%",
-    "uptimeDay": "99.13%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "92.76%",
-    "time": 200,
-    "timeDay": 109,
-    "timeWeek": 182,
-    "timeMonth": 192,
-    "timeYear": 191,
+    "uptimeYear": "92.97%",
+    "time": 199,
+    "timeDay": 60,
+    "timeWeek": 164,
+    "timeMonth": 190,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2025-07-21": 13,
       "2025-07-19": 13,
@@ -301,8 +297,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -312,15 +307,15 @@
     "slug": "dream",
     "status": "up",
     "uptime": "95.54%",
-    "uptimeDay": "99.13%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "92.76%",
+    "uptimeYear": "92.97%",
     "time": 183,
-    "timeDay": 124,
-    "timeWeek": 175,
-    "timeMonth": 167,
-    "timeYear": 179,
+    "timeDay": 108,
+    "timeWeek": 173,
+    "timeMonth": 166,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2025-07-21": 13,
       "2025-07-19": 13,
@@ -350,8 +345,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -361,14 +355,14 @@
     "slug": "thb-wiki-calendar-api",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "97.92%",
+    "uptimeDay": "98.70%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "98.49%",
     "uptimeYear": "99.56%",
     "time": 517,
-    "timeDay": 584,
-    "timeWeek": 583,
-    "timeMonth": 569,
+    "timeDay": 552,
+    "timeWeek": 582,
+    "timeMonth": 571,
     "timeYear": 573,
     "dailyMinutesDown": {
       "2025-07-22": 19,
@@ -449,15 +443,15 @@
     "slug": "lyrics",
     "status": "up",
     "uptime": "95.88%",
-    "uptimeDay": "99.13%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "93.46%",
+    "uptimeYear": "93.67%",
     "time": 223,
-    "timeDay": 218,
-    "timeWeek": 218,
-    "timeMonth": 206,
-    "timeYear": 215,
+    "timeDay": 60,
+    "timeWeek": 217,
+    "timeMonth": 201,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2025-07-21": 13,
       "2025-07-19": 13,
@@ -486,8 +480,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -497,14 +490,14 @@
     "slug": "omake",
     "status": "up",
     "uptime": "96.47%",
-    "uptimeDay": "99.13%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "94.94%",
+    "uptimeYear": "95.15%",
     "time": 196,
-    "timeDay": 165,
-    "timeWeek": 142,
-    "timeMonth": 155,
+    "timeDay": 313,
+    "timeWeek": 165,
+    "timeMonth": 159,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2025-07-21": 13,
@@ -529,8 +522,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -539,15 +531,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/patch.thwiki.cc.ico",
     "slug": "patch",
     "status": "up",
-    "uptime": "92.68%",
+    "uptime": "92.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.76%",
-    "uptimeYear": "85.10%",
+    "uptimeYear": "85.18%",
     "time": 656,
-    "timeDay": 409,
-    "timeWeek": 518,
-    "timeMonth": 488,
+    "timeDay": 297,
+    "timeWeek": 519,
+    "timeMonth": 485,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2025-07-08": 5,
@@ -619,8 +611,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -633,10 +624,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.90%",
-    "time": 182,
-    "timeDay": 94,
-    "timeWeek": 171,
+    "uptimeYear": "97.11%",
+    "time": 181,
+    "timeDay": 89,
+    "timeWeek": 169,
     "timeMonth": 123,
     "timeYear": 114,
     "dailyMinutesDown": {
@@ -649,8 +640,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -660,15 +650,15 @@
     "slug": "touhou98-font",
     "status": "up",
     "uptime": "96.50%",
-    "uptimeDay": "99.12%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "92.76%",
-    "time": 439,
-    "timeDay": 338,
-    "timeWeek": 289,
-    "timeMonth": 377,
-    "timeYear": 427,
+    "uptimeYear": "92.97%",
+    "time": 438,
+    "timeDay": 77,
+    "timeWeek": 266,
+    "timeMonth": 369,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2025-07-21": 13,
       "2025-07-19": 13,
@@ -698,8 +688,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -709,14 +698,14 @@
     "slug": "toho-moe",
     "status": "up",
     "uptime": "96.78%",
-    "uptimeDay": "99.12%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "92.76%",
-    "time": 489,
-    "timeDay": 242,
-    "timeWeek": 394,
-    "timeMonth": 363,
+    "uptimeYear": "92.97%",
+    "time": 485,
+    "timeDay": 277,
+    "timeWeek": 406,
+    "timeMonth": 352,
     "timeYear": 357,
     "dailyMinutesDown": {
       "2025-07-21": 13,
@@ -747,8 +736,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -763,9 +751,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 662,
-    "timeWeek": 281,
-    "timeMonth": 241,
+    "timeDay": 102,
+    "timeWeek": 285,
+    "timeMonth": 242,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2024-09-19": 6
