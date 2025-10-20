@@ -1,7 +1,7 @@
 url: https://touhou98.touhou.moe/
-status: up
-code: 200
-responseTime: 908
-lastUpdated: 2025-10-19T23:09:48.704Z
+status: down
+code: 500
+responseTime: 4024
+lastUpdated: 2025-10-20T06:57:20.387Z
 startTime: 2022-07-09T09:04:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
