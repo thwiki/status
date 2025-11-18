@@ -498,7 +498,7 @@
     "timeMonth": 0,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2025-11-18": 874,
+      "2025-11-18": 887,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -649,19 +649,19 @@
     "url": "https://avatar.thbwiki.cc/thwikicc_wiki_default_l.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/avatar.thbwiki.cc.ico",
     "slug": "avatar",
-    "status": "down",
+    "status": "up",
     "uptime": "97.42%",
-    "uptimeDay": "91.10%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "90.24%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 118,
-    "timeDay": 104,
-    "timeWeek": 115,
-    "timeMonth": 122,
+    "timeDay": 102,
+    "timeWeek": 113,
+    "timeMonth": 121,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-11-18": 128,
+      "2025-11-18": 140,
       "2025-10-03": 14
     }
   },
@@ -766,19 +766,19 @@
     "url": "https://thbwiki.cc/%E9%A6%96%E9%A1%B5",
     "icon": "https://icons.duckduckgo.com/ip3/thbwiki.cc.ico",
     "slug": "static-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "90.35%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "89.50%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.97%",
-    "time": 220,
-    "timeDay": 136,
-    "timeWeek": 205,
-    "timeMonth": 229,
-    "timeYear": 221,
+    "time": 221,
+    "timeDay": 225,
+    "timeWeek": 247,
+    "timeMonth": 243,
+    "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-11-18": 139
+      "2025-11-18": 152
     }
   }
 ]
