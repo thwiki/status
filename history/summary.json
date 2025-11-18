@@ -322,19 +322,19 @@
     "url": "https://calendar.thbwiki.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.thbwiki.cc.ico",
     "slug": "thb-wiki-calendar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "96.90%",
+    "uptimeDay": "96.85%",
     "uptimeWeek": "96.96%",
     "uptimeMonth": "97.14%",
     "uptimeYear": "99.63%",
     "time": 560,
-    "timeDay": 505,
-    "timeWeek": 567,
-    "timeMonth": 574,
-    "timeYear": 583,
+    "timeDay": 461,
+    "timeWeek": 554,
+    "timeMonth": 570,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-11-18": 12,
+      "2025-11-18": 13,
       "2025-11-17": 50,
       "2025-11-15": 39,
       "2025-11-14": 29,
@@ -382,7 +382,7 @@
       "2025-09-21": 18,
       "2025-09-20": 49,
       "2025-09-19": 42,
-      "2025-09-18": 55
+      "2025-09-18": 44
     }
   },
   {
@@ -498,7 +498,7 @@
     "timeMonth": 0,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2025-11-18": 714,
+      "2025-11-18": 719,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -649,19 +649,19 @@
     "url": "https://avatar.thbwiki.cc/thwikicc_wiki_default_l.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/avatar.thbwiki.cc.ico",
     "slug": "avatar",
-    "status": "up",
+    "status": "down",
     "uptime": "97.43%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 131,
-    "timeWeek": 128,
-    "timeMonth": 126,
+    "time": 118,
+    "timeDay": 113,
+    "timeWeek": 121,
+    "timeMonth": 124,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-11-18": 7,
+      "2025-11-18": 8,
       "2025-10-03": 14
     }
   },
@@ -766,19 +766,19 @@
     "url": "https://thbwiki.cc/%E9%A6%96%E9%A1%B5",
     "icon": "https://icons.duckduckgo.com/ip3/thbwiki.cc.ico",
     "slug": "static-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 168,
-    "timeWeek": 239,
-    "timeMonth": 240,
+    "time": 220,
+    "timeDay": 148,
+    "timeWeek": 223,
+    "timeMonth": 236,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-11-18": 18
+      "2025-11-18": 19
     }
   }
 ]
