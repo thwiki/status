@@ -322,16 +322,16 @@
     "url": "https://calendar.thbwiki.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.thbwiki.cc.ico",
     "slug": "thb-wiki-calendar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "97.02%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "97.01%",
     "uptimeMonth": "97.16%",
-    "uptimeYear": "99.62%",
+    "uptimeYear": "99.63%",
     "time": 560,
-    "timeDay": 567,
-    "timeWeek": 582,
-    "timeMonth": 578,
+    "timeDay": 506,
+    "timeWeek": 568,
+    "timeMonth": 574,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2025-11-18": 7,
@@ -382,8 +382,7 @@
       "2025-09-21": 18,
       "2025-09-20": 49,
       "2025-09-19": 42,
-      "2025-09-18": 55,
-      "2025-09-17": 17
+      "2025-09-18": 55
     }
   },
   {
@@ -499,7 +498,7 @@
     "timeMonth": 0,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2025-11-18": 703,
+      "2025-11-18": 709,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -769,9 +768,9 @@
     "slug": "static-wiki",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 199,
@@ -779,7 +778,7 @@
     "timeMonth": 244,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-11-18": 8
+      "2025-11-18": 13
     }
   }
 ]
