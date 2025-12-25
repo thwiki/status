@@ -12,7 +12,7 @@
     "uptimeYear": "99.62%",
     "time": 1230,
     "timeDay": 1021,
-    "timeWeek": 1041,
+    "timeWeek": 1027,
     "timeMonth": 1024,
     "timeYear": 1066,
     "dailyMinutesDown": {
@@ -40,7 +40,7 @@
     "uptimeYear": "99.99%",
     "time": 712,
     "timeDay": 699,
-    "timeWeek": 677,
+    "timeWeek": 681,
     "timeMonth": 719,
     "timeYear": 696,
     "dailyMinutesDown": {
@@ -61,7 +61,7 @@
     "uptimeYear": "99.85%",
     "time": 209,
     "timeDay": 185,
-    "timeWeek": 232,
+    "timeWeek": 242,
     "timeMonth": 225,
     "timeYear": 213,
     "dailyMinutesDown": {
@@ -116,7 +116,7 @@
     "uptimeYear": "99.85%",
     "time": 323,
     "timeDay": 268,
-    "timeWeek": 244,
+    "timeWeek": 258,
     "timeMonth": 259,
     "timeYear": 238,
     "dailyMinutesDown": {
@@ -351,15 +351,15 @@
     "url": "https://calendar.thbwiki.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.thbwiki.cc.ico",
     "slug": "thb-wiki-calendar-api",
-    "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "89.84%",
-    "uptimeWeek": "92.20%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "89.81%",
+    "uptimeWeek": "92.19%",
     "uptimeMonth": "94.84%",
     "uptimeYear": "99.57%",
     "time": 575,
-    "timeDay": 565,
-    "timeWeek": 555,
+    "timeDay": 569,
+    "timeWeek": 556,
     "timeMonth": 561,
     "timeYear": 578,
     "dailyMinutesDown": {
@@ -392,7 +392,7 @@
       "2025-11-28": 79,
       "2025-11-27": 19,
       "2025-11-26": 27,
-      "2025-11-25": 25
+      "2025-11-25": 16
     }
   },
   {
@@ -515,14 +515,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "35.97%",
-    "uptimeYear": "57.02%",
+    "uptimeYear": "57.01%",
     "time": 638,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 535,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2025-12-25": 1393,
+      "2025-12-25": 1432,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
