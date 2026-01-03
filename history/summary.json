@@ -356,19 +356,19 @@
     "url": "https://calendar.thbwiki.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.thbwiki.cc.ico",
     "slug": "thb-wiki-calendar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "83.44%",
-    "uptimeWeek": "91.07%",
-    "uptimeMonth": "94.56%",
+    "uptimeDay": "83.40%",
+    "uptimeWeek": "91.06%",
+    "uptimeMonth": "94.60%",
     "uptimeYear": "99.55%",
     "time": 580,
-    "timeDay": 588,
+    "timeDay": 584,
     "timeWeek": 544,
     "timeMonth": 555,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2026-01-03": 159,
+      "2026-01-03": 160,
       "2026-01-02": 145,
       "2026-01-01": 56,
       "2025-12-31": 196,
@@ -391,7 +391,7 @@
       "2025-12-13": 38,
       "2025-12-12": 131,
       "2025-12-11": 186,
-      "2025-12-10": 28
+      "2025-12-10": 9
     }
   },
   {
@@ -515,7 +515,7 @@
     "uptime": "80.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.49%",
+    "uptimeMonth": "24.46%",
     "uptimeYear": "54.66%",
     "time": 638,
     "timeDay": 0,
@@ -523,7 +523,7 @@
     "timeMonth": 537,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2026-01-03": 815,
+      "2026-01-03": 827,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
