@@ -169,7 +169,7 @@
     "slug": "mine-craft-gensoukyo",
     "status": "up",
     "uptime": "97.53%",
-    "uptimeDay": "60.43%",
+    "uptimeDay": "61.86%",
     "uptimeWeek": "94.14%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "88.42%",
@@ -360,18 +360,19 @@
     "url": "https://calendar.thbwiki.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.thbwiki.cc.ico",
     "slug": "thb-wiki-calendar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "97.95%",
+    "uptimeDay": "97.92%",
     "uptimeWeek": "96.78%",
-    "uptimeMonth": "93.89%",
-    "uptimeYear": "99.49%",
+    "uptimeMonth": "93.95%",
+    "uptimeYear": "99.50%",
     "time": 574,
-    "timeDay": 622,
-    "timeWeek": 551,
+    "timeDay": 612,
+    "timeWeek": 552,
     "timeMonth": 552,
     "timeYear": 574,
     "dailyMinutesDown": {
+      "2026-01-28": 0,
       "2026-01-27": 29,
       "2026-01-26": 6,
       "2026-01-25": 72,
@@ -399,7 +400,7 @@
       "2026-01-02": 145,
       "2026-01-01": 56,
       "2025-12-31": 196,
-      "2025-12-30": 77
+      "2025-12-30": 47
     }
   },
   {
@@ -531,7 +532,7 @@
     "timeMonth": 0,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2026-01-28": 85,
+      "2026-01-28": 105,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
