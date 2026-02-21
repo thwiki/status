@@ -360,19 +360,19 @@
     "url": "https://calendar.thbwiki.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.thbwiki.cc.ico",
     "slug": "thb-wiki-calendar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "91.43%",
-    "uptimeWeek": "98.46%",
+    "uptimeDay": "91.39%",
+    "uptimeWeek": "98.45%",
     "uptimeMonth": "96.96%",
     "uptimeYear": "99.41%",
     "time": 574,
-    "timeDay": 482,
-    "timeWeek": 517,
-    "timeMonth": 562,
+    "timeDay": 478,
+    "timeWeek": 514,
+    "timeMonth": 561,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2026-02-21": 88,
+      "2026-02-21": 89,
       "2026-02-20": 36,
       "2026-02-19": 20,
       "2026-02-15": 12,
@@ -411,7 +411,7 @@
       "2026-01-06": 314,
       "2026-01-05": 94,
       "2026-01-04": 234,
-      "2026-01-03": 121
+      "2026-01-03": 97
     }
   },
   {
@@ -530,7 +530,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/patch.thwiki.cc.ico",
     "slug": "patch",
     "status": "down",
-    "uptime": "76.68%",
+    "uptime": "76.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -541,7 +541,7 @@
     "timeMonth": 0,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2026-02-21": 854,
+      "2026-02-21": 1155,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
