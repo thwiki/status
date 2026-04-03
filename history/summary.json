@@ -38,7 +38,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cd.thwiki.cc.ico",
     "slug": "thb-wiki-cd-site",
     "status": "up",
-    "uptime": "98.53%",
+    "uptime": "98.54%",
     "uptimeDay": "95.67%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "97.01%",
@@ -177,7 +177,7 @@
     "uptimeDay": "60.19%",
     "uptimeWeek": "89.87%",
     "uptimeMonth": "97.54%",
-    "uptimeYear": "91.00%",
+    "uptimeYear": "91.02%",
     "time": 1605,
     "timeDay": 1190,
     "timeWeek": 1456,
@@ -236,8 +236,7 @@
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
-      "2025-04-04": 1440,
-      "2025-04-03": 1440
+      "2025-04-04": 1440
     }
   },
   {
@@ -531,7 +530,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/patch.thwiki.cc.ico",
     "slug": "patch",
     "status": "up",
-    "uptime": "77.33%",
+    "uptime": "77.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
