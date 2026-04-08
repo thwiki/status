@@ -177,7 +177,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.31%",
     "uptimeMonth": "97.54%",
-    "uptimeYear": "92.36%",
+    "uptimeYear": "92.39%",
     "time": 1592,
     "timeDay": 1020,
     "timeWeek": 1137,
@@ -231,8 +231,7 @@
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   },
   {
@@ -353,12 +352,12 @@
     "slug": "thb-wiki-calendar-api",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "71.78%",
+    "uptimeDay": "77.55%",
     "uptimeWeek": "87.77%",
     "uptimeMonth": "88.55%",
     "uptimeYear": "98.88%",
     "time": 579,
-    "timeDay": 581,
+    "timeDay": 599,
     "timeWeek": 868,
     "timeMonth": 630,
     "timeYear": 579,
@@ -522,7 +521,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/patch.thwiki.cc.ico",
     "slug": "patch",
     "status": "up",
-    "uptime": "77.43%",
+    "uptime": "77.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
