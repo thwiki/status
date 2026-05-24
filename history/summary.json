@@ -329,16 +329,16 @@
     "url": "https://calendar.thbwiki.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.thbwiki.cc.ico",
     "slug": "thb-wiki-calendar-api",
-    "status": "down",
+    "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "95.01%",
-    "uptimeMonth": "68.14%",
-    "uptimeYear": "96.08%",
+    "uptimeDay": "91.41%",
+    "uptimeWeek": "94.45%",
+    "uptimeMonth": "68.02%",
+    "uptimeYear": "96.07%",
     "time": 576,
-    "timeDay": 351,
-    "timeWeek": 422,
-    "timeMonth": 517,
+    "timeDay": 394,
+    "timeWeek": 431,
+    "timeMonth": 518,
     "timeYear": 575,
     "dailyMinutesDown": {
       "2026-03-15": 34,
@@ -397,7 +397,7 @@
       "2026-05-19": 123,
       "2026-05-20": 127,
       "2026-05-21": 186,
-      "2026-05-24": 68
+      "2026-05-24": 124
     }
   },
   {
@@ -520,7 +520,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "44.88%",
+    "uptimeYear": "44.89%",
     "time": 670,
     "timeDay": 516,
     "timeWeek": 402,
