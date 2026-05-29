@@ -6,14 +6,14 @@
     "slug": "thb-wiki",
     "status": "down",
     "uptime": "98.48%",
-    "uptimeDay": "54.23%",
-    "uptimeWeek": "91.57%",
-    "uptimeMonth": "97.80%",
-    "uptimeYear": "99.27%",
+    "uptimeDay": "48.74%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "99.25%",
     "time": 1073,
     "timeDay": 425,
     "timeWeek": 717,
-    "timeMonth": 1047,
+    "timeMonth": 1042,
     "timeYear": 1071,
     "dailyMinutesDown": {
       "2025-06-03": 5,
@@ -31,7 +31,7 @@
       "2026-05-15": 114,
       "2026-05-27": 110,
       "2026-05-26": 80,
-      "2026-05-29": 659
+      "2026-05-29": 738
     }
   },
   {
@@ -48,7 +48,7 @@
     "time": 778,
     "timeDay": 597,
     "timeWeek": 4020,
-    "timeMonth": 1752,
+    "timeMonth": 1780,
     "timeYear": 807,
     "dailyMinutesDown": {
       "2025-09-23": 7,
@@ -76,7 +76,7 @@
     "time": 222,
     "timeDay": 108,
     "timeWeek": 175,
-    "timeMonth": 201,
+    "timeMonth": 204,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2025-07-19": 13,
@@ -131,7 +131,7 @@
     "time": 230,
     "timeDay": 45,
     "timeWeek": 194,
-    "timeMonth": 134,
+    "timeMonth": 135,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2025-07-19": 13,
@@ -187,8 +187,8 @@
     "time": 1527,
     "timeDay": 1091,
     "timeWeek": 942,
-    "timeMonth": 1061,
-    "timeYear": 1417,
+    "timeMonth": 1065,
+    "timeYear": 1419,
     "dailyMinutesDown": {
       "2025-07-09": 39,
       "2025-08-02": 39,
@@ -231,7 +231,7 @@
     "time": 201,
     "timeDay": 72,
     "timeWeek": 149,
-    "timeMonth": 200,
+    "timeMonth": 198,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2025-07-19": 13,
@@ -287,7 +287,7 @@
     "time": 205,
     "timeDay": 47,
     "timeWeek": 174,
-    "timeMonth": 197,
+    "timeMonth": 200,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2025-07-19": 13,
@@ -333,16 +333,16 @@
     "url": "https://calendar.thbwiki.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.thbwiki.cc.ico",
     "slug": "thb-wiki-calendar-api",
-    "status": "down",
-    "uptime": "98.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "96.02%",
-    "uptimeMonth": "67.58%",
-    "uptimeYear": "96.06%",
-    "time": 575,
-    "timeDay": 330,
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "95.24%",
+    "uptimeMonth": "67.40%",
+    "uptimeYear": "96.04%",
+    "time": 574,
+    "timeDay": 351,
     "timeWeek": 409,
-    "timeMonth": 430,
+    "timeMonth": 426,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2026-03-16": 21,
@@ -403,7 +403,7 @@
       "2026-05-24": 124,
       "2026-05-26": 64,
       "2026-05-27": 212,
-      "2026-05-29": 1
+      "2026-05-29": 79
     }
   },
   {
@@ -420,7 +420,7 @@
     "time": 241,
     "timeDay": 60,
     "timeWeek": 268,
-    "timeMonth": 246,
+    "timeMonth": 250,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2025-07-19": 13,
@@ -526,11 +526,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.27%",
+    "uptimeYear": "46.29%",
     "time": 670,
     "timeDay": 247,
     "timeWeek": 491,
-    "timeMonth": 477,
+    "timeMonth": 476,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2025-06-02": 264,
@@ -752,7 +752,7 @@
     "time": 129,
     "timeDay": 396,
     "timeWeek": 200,
-    "timeMonth": 133,
+    "timeMonth": 134,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2025-10-03": 14,
@@ -776,8 +776,8 @@
     "time": 435,
     "timeDay": 327,
     "timeWeek": 353,
-    "timeMonth": 429,
-    "timeYear": 444,
+    "timeMonth": 436,
+    "timeYear": 443,
     "dailyMinutesDown": {
       "2025-07-19": 13,
       "2025-07-21": 13,
@@ -831,8 +831,8 @@
     "time": 373,
     "timeDay": 302,
     "timeWeek": 267,
-    "timeMonth": 333,
-    "timeYear": 375,
+    "timeMonth": 334,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2025-07-19": 13,
       "2025-07-21": 13,
@@ -886,7 +886,7 @@
     "time": 257,
     "timeDay": 89,
     "timeWeek": 550,
-    "timeMonth": 352,
+    "timeMonth": 359,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2025-11-18": 152,
