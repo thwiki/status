@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/thwiki.cc.ico",
     "slug": "thb-wiki",
     "status": "down",
-    "uptime": "98.49%",
-    "uptimeDay": "69.78%",
-    "uptimeWeek": "93.79%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "99.31%",
+    "uptime": "98.48%",
+    "uptimeDay": "54.23%",
+    "uptimeWeek": "91.57%",
+    "uptimeMonth": "97.80%",
+    "uptimeYear": "99.27%",
     "time": 1073,
     "timeDay": 425,
     "timeWeek": 717,
@@ -31,7 +31,7 @@
       "2026-05-15": 114,
       "2026-05-27": 110,
       "2026-05-26": 80,
-      "2026-05-29": 435
+      "2026-05-29": 659
     }
   },
   {
@@ -333,19 +333,19 @@
     "url": "https://calendar.thbwiki.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.thbwiki.cc.ico",
     "slug": "thb-wiki-calendar-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.03%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "96.02%",
     "uptimeMonth": "67.58%",
-    "uptimeYear": "96.05%",
+    "uptimeYear": "96.06%",
     "time": 575,
-    "timeDay": 443,
-    "timeWeek": 422,
-    "timeMonth": 434,
+    "timeDay": 330,
+    "timeWeek": 409,
+    "timeMonth": 430,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2026-03-16": 50,
+      "2026-03-16": 21,
       "2026-03-17": 589,
       "2026-03-18": 727,
       "2026-03-19": 45,
@@ -402,7 +402,8 @@
       "2026-05-21": 186,
       "2026-05-24": 124,
       "2026-05-26": 64,
-      "2026-05-27": 212
+      "2026-05-27": 212,
+      "2026-05-29": 1
     }
   },
   {
@@ -525,7 +526,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.23%",
+    "uptimeYear": "46.27%",
     "time": 670,
     "timeDay": 247,
     "timeWeek": 491,
