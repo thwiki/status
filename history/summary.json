@@ -12,7 +12,7 @@
     "uptimeYear": "86.74%",
     "time": 991,
     "timeDay": 197,
-    "timeWeek": 202,
+    "timeWeek": 203,
     "timeMonth": 187,
     "timeYear": 935,
     "dailyMinutesDown": {
@@ -38,7 +38,8 @@
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
-      "2026-07-15": 1431,
+      "2026-07-16": 7,
+      "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -109,7 +110,8 @@
       "2026-06-03": 391,
       "2026-06-02": 1440,
       "2026-06-01": 1034,
-      "2026-07-15": 1432,
+      "2026-07-16": 7,
+      "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -164,7 +166,7 @@
     "uptimeYear": "99.84%",
     "time": 230,
     "timeDay": 140,
-    "timeWeek": 251,
+    "timeWeek": 247,
     "timeMonth": 317,
     "timeYear": 234,
     "dailyMinutesDown": {
@@ -219,7 +221,7 @@
     "uptimeYear": "99.85%",
     "time": 225,
     "timeDay": 263,
-    "timeWeek": 184,
+    "timeWeek": 173,
     "timeMonth": 172,
     "timeYear": 235,
     "dailyMinutesDown": {
@@ -275,7 +277,7 @@
     "uptimeYear": "98.83%",
     "time": 1479,
     "timeDay": 1065,
-    "timeWeek": 936,
+    "timeWeek": 941,
     "timeMonth": 1202,
     "timeYear": 1413,
     "dailyMinutesDown": {
@@ -318,7 +320,7 @@
     "uptimeYear": "99.85%",
     "time": 209,
     "timeDay": 102,
-    "timeWeek": 219,
+    "timeWeek": 232,
     "timeMonth": 282,
     "timeYear": 215,
     "dailyMinutesDown": {
@@ -374,7 +376,7 @@
     "uptimeYear": "99.85%",
     "time": 215,
     "timeDay": 231,
-    "timeWeek": 239,
+    "timeWeek": 232,
     "timeMonth": 298,
     "timeYear": 225,
     "dailyMinutesDown": {
@@ -421,17 +423,17 @@
     "url": "https://calendar.thbwiki.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.thbwiki.cc.ico",
     "slug": "thb-wiki-calendar-api",
-    "status": "down",
-    "uptime": "99.02%",
-    "uptimeDay": "93.43%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "97.98%",
+    "status": "up",
+    "uptime": "99.01%",
+    "uptimeDay": "92.37%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "97.94%",
     "uptimeYear": "96.04%",
     "time": 570,
-    "timeDay": 348,
-    "timeWeek": 472,
-    "timeMonth": 482,
-    "timeYear": 569,
+    "timeDay": 450,
+    "timeWeek": 489,
+    "timeMonth": 487,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2026-03-27": 170,
       "2026-03-28": 69,
@@ -494,7 +496,8 @@
       "2026-07-07": 86,
       "2026-07-08": 179,
       "2026-07-14": 112,
-      "2026-07-15": 95
+      "2026-07-15": 103,
+      "2026-07-16": 7
     }
   },
   {
@@ -510,7 +513,7 @@
     "uptimeYear": "99.85%",
     "time": 253,
     "timeDay": 259,
-    "timeWeek": 226,
+    "timeWeek": 232,
     "timeMonth": 361,
     "timeYear": 265,
     "dailyMinutesDown": {
@@ -565,7 +568,7 @@
     "uptimeYear": "99.86%",
     "time": 217,
     "timeDay": 165,
-    "timeWeek": 195,
+    "timeWeek": 196,
     "timeMonth": 270,
     "timeYear": 227,
     "dailyMinutesDown": {
@@ -620,7 +623,7 @@
     "uptimeYear": "47.43%",
     "time": 594,
     "timeDay": 526,
-    "timeWeek": 573,
+    "timeWeek": 579,
     "timeMonth": 631,
     "timeYear": 579,
     "dailyMinutesDown": {
@@ -834,7 +837,7 @@
     "uptimeYear": "99.83%",
     "time": 133,
     "timeDay": 70,
-    "timeWeek": 139,
+    "timeWeek": 149,
     "timeMonth": 156,
     "timeYear": 135,
     "dailyMinutesDown": {
@@ -860,7 +863,7 @@
     "uptimeYear": "99.86%",
     "time": 451,
     "timeDay": 209,
-    "timeWeek": 339,
+    "timeWeek": 360,
     "timeMonth": 624,
     "timeYear": 456,
     "dailyMinutesDown": {
@@ -915,7 +918,7 @@
     "uptimeYear": "99.86%",
     "time": 380,
     "timeDay": 191,
-    "timeWeek": 434,
+    "timeWeek": 405,
     "timeMonth": 491,
     "timeYear": 389,
     "dailyMinutesDown": {
@@ -970,7 +973,7 @@
     "uptimeYear": "99.57%",
     "time": 261,
     "timeDay": 78,
-    "timeWeek": 255,
+    "timeWeek": 218,
     "timeMonth": 218,
     "timeYear": 271,
     "dailyMinutesDown": {
