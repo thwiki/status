@@ -14,7 +14,7 @@
     "timeDay": 12924,
     "timeWeek": 6573,
     "timeMonth": 1889,
-    "timeYear": 828,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2025-11-27": 86,
       "2025-11-29": 618,
@@ -161,7 +161,7 @@
     "timeDay": 12232,
     "timeWeek": 6688,
     "timeMonth": 2054,
-    "timeYear": 870,
+    "timeYear": 871,
     "dailyMinutesDown": {
       "2026-02-10": 29,
       "2026-03-18": 727,
@@ -297,9 +297,8 @@
     "timeDay": 183,
     "timeWeek": 329,
     "timeMonth": 265,
-    "timeYear": 247,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-11-17": 15,
       "2025-11-21": 6,
       "2025-11-23": 10,
       "2025-11-28": 6,
@@ -325,9 +324,8 @@
     "timeDay": 208,
     "timeWeek": 277,
     "timeMonth": 375,
-    "timeYear": 216,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-11-17": 15,
       "2025-11-21": 6,
       "2025-11-23": 10,
       "2025-11-28": 6,
@@ -391,7 +389,6 @@
     "timeMonth": 247,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-11-17": 15,
       "2025-11-21": 6,
       "2025-11-23": 10,
       "2025-11-28": 6,
@@ -420,7 +417,6 @@
     "timeMonth": 305,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-11-17": 15,
       "2025-11-21": 6,
       "2025-11-23": 10,
       "2025-11-28": 6,
@@ -436,16 +432,16 @@
     "url": "https://calendar.thbwiki.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar.thbwiki.cc.ico",
     "slug": "thb-wiki-calendar-api",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "94.63%",
-    "uptimeMonth": "96.24%",
-    "uptimeYear": "98.54%",
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "68.40%",
+    "uptimeWeek": "91.27%",
+    "uptimeMonth": "95.20%",
+    "uptimeYear": "98.46%",
     "time": 534,
-    "timeDay": 576,
-    "timeWeek": 485,
-    "timeMonth": 575,
+    "timeDay": 558,
+    "timeWeek": 475,
+    "timeMonth": 574,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2026-08-13": 111,
@@ -485,7 +481,8 @@
       "2026-11-05": 72,
       "2026-11-09": 1013,
       "2026-11-15": 425,
-      "2026-11-16": 1
+      "2026-11-17": 45,
+      "2026-11-16": 410
     }
   },
   {
@@ -503,9 +500,8 @@
     "timeDay": 125,
     "timeWeek": 161,
     "timeMonth": 238,
-    "timeYear": 274,
+    "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-11-17": 15,
       "2025-11-21": 6,
       "2025-11-23": 10,
       "2025-11-28": 6,
@@ -533,7 +529,6 @@
     "timeMonth": 197,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-11-17": 15,
       "2025-11-21": 6,
       "2025-11-23": 10,
       "2025-11-28": 6,
@@ -554,7 +549,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.58%",
+    "uptimeYear": "75.67%",
     "time": 576,
     "timeDay": 474,
     "timeWeek": 489,
@@ -575,7 +570,6 @@
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
-      "2025-11-17": 1440,
       "2025-12-07": 5,
       "2026-02-23": 967,
       "2026-02-22": 1440,
@@ -699,9 +693,8 @@
     "timeDay": 494,
     "timeWeek": 502,
     "timeMonth": 460,
-    "timeYear": 450,
+    "timeYear": 451,
     "dailyMinutesDown": {
-      "2025-11-17": 15,
       "2025-11-21": 6,
       "2025-11-23": 10,
       "2025-11-28": 7,
@@ -729,7 +722,6 @@
     "timeMonth": 403,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2025-11-17": 15,
       "2025-11-21": 6,
       "2025-11-23": 10,
       "2025-11-28": 7,
@@ -755,7 +747,7 @@
     "timeDay": 650,
     "timeWeek": 203,
     "timeMonth": 274,
-    "timeYear": 272,
+    "timeYear": 270,
     "dailyMinutesDown": {
       "2025-11-18": 152,
       "2026-01-20": 26,
